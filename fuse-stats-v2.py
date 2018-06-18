@@ -2,7 +2,7 @@
 # ####################################################################################################
 #
 #      @Author: Marcos Vasconcelos
-#      @email: marcos.vasconcelos@hpe.com
+#      @email: marvinred@gmail.com
 #      @Version: 1.0
 #      @Date: 06/18/2018
 #      @Description: Script for statistics collection in JBoss Fuse environment
